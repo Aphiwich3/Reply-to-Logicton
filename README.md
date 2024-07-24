@@ -4,12 +4,13 @@
 
     3ปี ครับ
 
-## เคยทำ website มาแล้วกี่งานฃ
+## เคยทำ website มาแล้วกี่งาน
     web miniprojuct
     web โชว์ผลงาน ครับ
 
 ## มีตัวอย่าง 2-3 ส่งตัวอย่างที่ดีที่สุดมาให้ดูไหม
 
+https://baseba1l-web.vercel.app/
 
 
 ## รู้จัก responsive ไหม
